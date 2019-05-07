@@ -6,7 +6,6 @@ https://github.com/ricardovandervlag/Project-2.1---Arduino
 https://github.com/ricardovandervlag/Project-2.1---Python
 https://github.com/GeerHub/ZonneWroem <-- EMPTY
 https://github.com/LenDuin/ZonneWroem <-- FORK / EMPTY
-https://github.com/WisseVoortman/ProjectCS
 https://github.com/danielgeerts7/arduino_rollende_luiken
 https://github.com/gvdijk/Project-Embedded
 https://github.com/SandervDoorn/zeng-zonnescherm
