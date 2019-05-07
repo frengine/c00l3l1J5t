@@ -6,5 +6,6 @@ https://github.com/SandervDoorn/zeng-zonnescherm
 https://github.com/Joyce0398/zeng-zonnescherm <-- FROK
 https://github.com/Gothic-Gargoyle/Project-2.1-Hanze-SE-Groep-2B-2
 https://github.com/Arceden/HanzeSunSensor
+https://github.com/WisseVoortman/ProjectCS
 
 TODO
