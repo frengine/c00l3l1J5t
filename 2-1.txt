@@ -1,5 +1,6 @@
 https://github.com/HTML-as-programming-language/project-hardware
 https://github.com/HTML-as-programming-language/project-software
 https://github.com/HTML-as-programming-language/HTML-as-programming-language
+https://github.com/gvdijk/Project-Embedded
 
 TODO
