@@ -4,8 +4,6 @@ https://github.com/HTML-as-programming-language/HTML-as-programming-language
 https://github.com/RJHarte/Project-2-1-private
 https://github.com/ricardovandervlag/Project-2.1---Arduino
 https://github.com/ricardovandervlag/Project-2.1---Python
-https://github.com/GeerHub/ZonneWroem <-- EMPTY
-https://github.com/LenDuin/ZonneWroem <-- FORK / EMPTY
 https://github.com/danielgeerts7/arduino_rollende_luiken
 https://github.com/gvdijk/Project-Embedded
 https://github.com/SandervDoorn/zeng-zonnescherm
@@ -29,6 +27,8 @@ https://github.com/kirmar1/Python-project2.1 <-- FORK
 https://github.com/koenhendriks/Sun-Roler
 https://github.com/kirmar1/Sun-Roler <-- FORK
 
+https://github.com/GeerHub/ZonneWroem <-- EMPTY
+https://github.com/LenDuin/ZonneWroem <-- FORK / EMPTY
 https://github.com/dsteenge/Project2.1  <-- EMPTY
 https://github.com/WJSchuringa/Project  <-- EMPTY
 https://github.com/rickschoustra/Project <-- FORK / EMPTY
