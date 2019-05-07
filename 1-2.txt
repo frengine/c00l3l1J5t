@@ -1,17 +1,22 @@
 https://github.com/timostrating/parkingsimulator
 https://github.com/VincentCremers/Parkeergarage
 https://github.com/rotjeking7/Parkeergarage
-https://github.com/iyadsaffaf/Project-Parkeergarage
+https://github.com/DirkSuelmann2/Parkeergarage <--FORK
+https://github.com/RamonBonsema08/Parkeergarage <--FORK
+https://github.com/iyadsaffaf/Project-Parkeergarage <-- 1de project
+https://github.com/iyadsaffaf/Garaga-simulator <-- 2de project
 https://github.com/arnoenting/Project-Parkeergarage
-https://github.com/cryptology1996/Parkeergarage
+https://github.com/cryptology1996/Parkeergarage <-- 1de project
+https://github.com/cryptology1996/Parkeersimulator <-- 2de project
 https://github.com/Aitai/MinuteJ
-https://github.com/chielkroeze/ProjectPeriode2
-https://github.com/TimPmiT/ParkeergarageProject
+https://github.com/TimPmiT/ParkeergarageProject <-- 1de project
+https://github.com/TimPmiT/ProjectParkeergarage <-- 2de project
 https://github.com/arneLD/Parkeergarage
 https://github.com/gvdijk/Parkeergarage
-https://github.com/iMarshMallow/ParkeerSim
+https://github.com/iMarshMallow/ParkeerSim 
+https://github.com/chielkroeze/ParkeerSim <-- 1de project / FORK
+https://github.com/chielkroeze/ProjectPeriode2 <-- 2de project / mogelijk letterlijk copy
 https://github.com/Maanbal/Parkeergarage
-https://github.com/iyadsaffaf/Project-Parkeergarage
 https://github.com/gromdroid/parkeergarage
 https://github.com/CreepCoder/Parkeergarage
 https://github.com/robkat134/parkeergarage
@@ -33,7 +38,6 @@ https://github.com/SeanVisser1998/parkeergarage-2017-2018
 https://github.com/msvdaamen/school_parkeergaragesim
 https://github.com/YouSeeNiek/HanzeParkeerGarage
 https://github.com/karelkoster/ProjectParkeergarage
-https://github.com/TimPmiT/ProjectParkeergarage
 https://github.com/Rainieren/Parkeergarage-simulator
 https://github.com/danielgeerts7/parkeergarage_J_team
 https://github.com/micrud/Hanze-Project-OOP
