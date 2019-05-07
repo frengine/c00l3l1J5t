@@ -17,9 +17,11 @@ https://github.com/iMarshMallow/ParkeerSim
 https://github.com/chielkroeze/ParkeerSim <-- 1de project / FORK
 https://github.com/chielkroeze/ProjectPeriode2 <-- 2de project / mogelijk letterlijk copy
 https://github.com/Maanbal/Parkeergarage
-https://github.com/gromdroid/parkeergarage
+https://github.com/gromdroid/parkeergarage <-- 1de project
+https://github.com/gromdroid/MVC-Garage <-- 2de project
 https://github.com/CreepCoder/Parkeergarage
 https://github.com/robkat134/parkeergarage
+https://github.com/Gerigon/parkeergarage <--FORK
 https://github.com/joopschilder/parkeergarage
 https://github.com/Joyce0398/parkeergarage_project
 https://github.com/SebastiaanHolthuis/Parkeergarage
