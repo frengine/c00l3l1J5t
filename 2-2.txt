@@ -1,3 +1,9 @@
 https://github.com/wouterhoutsma/project_weerstations
+https://github.com/JustinZuidgeest/WeatherstationJava
+https://github.com/FrankIin/HanzeWeatherCompany
+https://github.com/Arceden/WeatherStation
+https://github.com/Jalf-/WeatherStation
+https://github.com/SuperMex/hfdesignpatt-weatherstation
+https://github.com/HolodniySvitanok/WeatherStationWebServer
 
 TODO

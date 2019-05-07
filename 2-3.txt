@@ -10,3 +10,4 @@ https://github.com/TobiasTS/Othello-Game
 https://github.com/jeremander/Gplus
 https://github.com/RockingStars/Reversi
 https://github.com/Arceden/HanzeAI
+https://github.com/JustinZuidgeest/ReversiProject-Group2

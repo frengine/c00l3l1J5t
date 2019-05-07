@@ -1,3 +1,53 @@
 https://github.com/timostrating/parkingsimulator
+https://github.com/VincentCremers/Parkeergarage
+https://github.com/rotjeking7/Parkeergarage
+https://github.com/iyadsaffaf/Project-Parkeergarage
+https://github.com/arnoenting/Project-Parkeergarage
+https://github.com/cryptology1996/Parkeergarage
+https://github.com/Aitai/MinuteJ
+https://github.com/chielkroeze/ProjectPeriode2
+https://github.com/TimPmiT/ParkeergarageProject
+https://github.com/arneLD/Parkeergarage
+https://github.com/gvdijk/Parkeergarage
+https://github.com/iMarshMallow/ParkeerSim
+https://github.com/Maanbal/Parkeergarage
+https://github.com/iyadsaffaf/Project-Parkeergarage
+https://github.com/gromdroid/parkeergarage
+https://github.com/CreepCoder/Parkeergarage
+https://github.com/robkat134/parkeergarage
+https://github.com/joopschilder/parkeergarage
+https://github.com/Joyce0398/parkeergarage_project
+https://github.com/SebastiaanHolthuis/Parkeergarage
+https://github.com/WoutBes/Parkeergarage
+https://github.com/bertjedb/Parkeergarage
+https://github.com/Witwerts/Parkeergarage
+https://github.com/RJHarte/Project-Parkeergarage
+https://github.com/Here2peer/parkeergaragesim
+https://github.com/hehuservices/ParkeerGarage
+https://github.com/ricardovandervlag/parkeerGarage
+https://github.com/LenDuin/Parkeergarage-GUI
+https://github.com/WisseVoortman/ProjectParkeergarage
+https://github.com/QSang/Project-Parkeergarage
+https://github.com/RvdM7/ParkeerGarage
+https://github.com/SeanVisser1998/parkeergarage-2017-2018
+https://github.com/msvdaamen/school_parkeergaragesim
+https://github.com/YouSeeNiek/HanzeParkeerGarage
+https://github.com/karelkoster/ProjectParkeergarage
+https://github.com/TimPmiT/ProjectParkeergarage
+https://github.com/Rainieren/Parkeergarage-simulator
+https://github.com/danielgeerts7/parkeergarage_J_team
+https://github.com/micrud/Hanze-Project-OOP
+https://github.com/CptButtocks/Hanze-City-Park
+https://github.com/Arceden/ChickenNuggetsGarage
+https://github.com/Arkarvir/Parkeersimulator
+https://github.com/bryandijkhuizen/Parkeersimulator-Project
 
-TODO
+https://github.com/FrankIin/Project <-- EMPTY
+https://github.com/Arneldvdv/ParkeergarageProject <-- EMPTY
+https://github.com/arneLD/Project-Parkeergarage <-- EMPTY
+https://github.com/Stevenhummel1992/Parkeergarage <-- EMPTY
+https://github.com/DuckStyle/ParkeergarageProject <-- EMPTY
+https://github.com/isaachetlam/parkeergarage <-- EMPTY
+https://github.com/jlasdlahlw/Parkeergarage <-- EMPTY
+https://github.com/ThijsMartena/Parkeergarage <-- EMPTY
+https://github.com/360343/Parkeersimulator <-- EMPTY
