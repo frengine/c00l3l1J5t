@@ -16,5 +16,11 @@ https://github.com/WisseVoortman/ProjectCS
 https://github.com/denisooo/Project2.1
 https://github.com/Jarinus/2.1-unwdmi-web
 https://github.com/IcyPalm/2.1-unwdmi-server
+https://github.com/Daanedwin55/Project-rolluik
+https://github.com/Alice69/Hanzesensors
+https://github.com/HenkBourgonje/Project-Zeng.ltd
+https://github.com/nielsa52/Project-Zeng.ltd <-- FROK
 
 TODO
+https://github.com/WJSchuringa/Project  <-- EMPTY
+https://github.com/rickschoustra/Project <-- FORK / EMPTY

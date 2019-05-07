@@ -21,7 +21,7 @@ https://github.com/gromdroid/parkeergarage <-- 1de project
 https://github.com/gromdroid/MVC-Garage <-- 2de project
 https://github.com/CreepCoder/Parkeergarage
 https://github.com/robkat134/parkeergarage
-https://github.com/Gerigon/parkeergarage <--FORK
+https://github.com/Gerigon/parkeergarage <-- FORK
 https://github.com/joopschilder/parkeergarage
 https://github.com/Joyce0398/parkeergarage_project
 https://github.com/SebastiaanHolthuis/Parkeergarage
@@ -54,9 +54,15 @@ https://github.com/bryandijkhuizen/Parkeersimulator-Project
 https://github.com/ahmedcicek/Testerd
 https://github.com/360456/Testerd <-- FORK
 https://github.com/arneLD/Testerd <-- FORK
+https://github.com/ahmedcicek/parkeer1
+https://github.com/360456/parkeer1 <-- FORK
 https://github.com/Evertpoort/ProjectOOP
 https://github.com/jgbrands/parking-garage
 https://github.com/InNoHurryToCode/Java-Parking-Garage
+https://github.com/Rkompaan/Parkeergarage
+https://github.com/Alice69/TestAutogarage
+https://github.com/mishadokter/Parking-Garage-Java
+https://github.com/JosTerlage/Project
 
 https://github.com/FrankIin/Project <-- EMPTY
 https://github.com/FrankIin/garagebitch <-- EMPTY
@@ -69,3 +75,12 @@ https://github.com/jlasdlahlw/Parkeergarage <-- EMPTY
 https://github.com/ThijsMartena/Parkeergarage <-- EMPTY
 https://github.com/ThijsMartena/parkeerMVC <-- EMPTY
 https://github.com/360343/Parkeersimulator <-- EMPTY
+https://github.com/360456/ProjectParkeer <-- EMPTY
+https://github.com/dragonthank/project2 <-- EMPTY
+
+https://github.com/damindaeshan/Anonymous <-- Maybe something ???
+https://github.com/damindaeshan/Anonymous_testing <-- Maybe something ???
+https://github.com/uaryal02/ITC205_Project <-- Maybe something ???
+https://github.com/Sarthakjo/ITC205_Project <-- FORK / Maybe something ???
+https://github.com/skhati01/ITC205_Project-1 <-- FORK / Maybe something ???
+https://github.com/Sarthakjo/NewRepo <-- Maybe something ???

@@ -17,6 +17,11 @@ https://github.com/TheElmo/GameFramework <-- FORK
 https://github.com/arjen3112/GameFramework <-- FORK
 https://github.com/wkurvers/GameFramework <-- FORK
 https://github.com/danielgeerts7/project-2.3
+https://github.com/mebusmein/RobotAI2.3
+https://github.com/WouterManuel/Reversi_Project <-- project van Chris
+https://github.com/HanzehogeschoolSICT/Project-Othello
+https://github.com/Konijnt/Project-Othello <-- OLD FORK
+https://github.com/HenkBourgonje/project-othello
 
 https://github.com/IcyPalm/AlphaReversi <-- 9 contributers ???
 https://github.com/IceTimux/AlphaReversi <-- FORK

@@ -7,5 +7,9 @@ https://github.com/SuperMex/hfdesignpatt-weatherstation
 https://github.com/HolodniySvitanok/WeatherStationWebServer
 https://github.com/jyrienstra/WeatherData
 https://github.com/fliermanrw/weatherProject
+https://github.com/feringa/project2.2
+https://github.com/WouterManuel/project2.2 <-- FORK
+https://github.com/dennishaaijer/WeatherApp-WebApp
+https://github.com/mishadokter/Project-2.2
 
 TODO
