@@ -6,11 +6,18 @@ https://github.com/FakeYou/kratos
 https://github.com/Evertpoort/TeamBatskelien
 https://github.com/gancheva/GameFramework
 https://github.com/fliermanrw/Project2.3
+https://github.com/Here2peer/Project2.3
 https://github.com/TobiasTS/Othello-Game
 https://github.com/jeremander/Gplus
 https://github.com/Arceden/HanzeAI
 https://github.com/JustinZuidgeest/ReversiProject-Group2
 https://github.com/IcyPalm/Hanze-TwoPlayerGameServer
+https://github.com/VictorRealem/GameFramework
+https://github.com/WisseVoortman/GameFramework <-- FORK
+https://github.com/TheElmo/GameFramework <-- FORK
+https://github.com/arjen3112/GameFramework <-- FORK
+https://github.com/wkurvers/GameFramework <-- FORK
+https://github.com/danielgeerts7/project-2.3
 
 https://gitlab.com/kallenkoot/Hanze-TwoPlayerGameServer <-- modules
 
@@ -25,3 +32,5 @@ https://github.com/bertjedb/Reversi <-- module FORK veel commits
 https://github.com/kwiznix/Reversi <-- module FORK veel commits
 https://github.com/miguelgrant96/Reversi <-- module FORK veel commits
 https://github.com/nedroden/Reversi <-- module FORK veel commits
+
+https://github.com/WisseVoortman/P_2.3 <-- EMPTY

@@ -30,7 +30,9 @@ https://github.com/bertjedb/Parkeergarage
 https://github.com/Witwerts/Parkeergarage
 https://github.com/RJHarte/Project-Parkeergarage
 https://github.com/Here2peer/parkeergaragesim
-https://github.com/hehuservices/ParkeerGarage
+https://github.com/hehuservices/ParkeerGarage <-- 1de project
+https://github.com/hehuservices/Parking-Garage-Simulator <-- FORK / 2de project 
+https://github.com/Wallie288/Parking-Garage-Simulator
 https://github.com/ricardovandervlag/parkeerGarage
 https://github.com/LenDuin/Parkeergarage-GUI
 https://github.com/WisseVoortman/ProjectParkeergarage
@@ -38,7 +40,8 @@ https://github.com/QSang/Project-Parkeergarage
 https://github.com/RvdM7/ParkeerGarage
 https://github.com/SeanVisser1998/parkeergarage-2017-2018
 https://github.com/msvdaamen/school_parkeergaragesim
-https://github.com/YouSeeNiek/HanzeParkeerGarage
+https://github.com/YouSeeNiek/HanzeParkeerGarage <-- 1de project
+https://github.com/YouSeeNiek/TestGarage <-- 2de project 
 https://github.com/karelkoster/ProjectParkeergarage
 https://github.com/Rainieren/Parkeergarage-simulator
 https://github.com/danielgeerts7/parkeergarage_J_team
@@ -47,8 +50,12 @@ https://github.com/CptButtocks/Hanze-City-Park
 https://github.com/Arceden/ChickenNuggetsGarage
 https://github.com/Arkarvir/Parkeersimulator
 https://github.com/bryandijkhuizen/Parkeersimulator-Project
+https://github.com/ahmedcicek/Testerd
+https://github.com/360456/Testerd <-- FORK
+https://github.com/arneLD/Testerd <-- FORK
 
 https://github.com/FrankIin/Project <-- EMPTY
+https://github.com/FrankIin/garagebitch <-- EMPTY
 https://github.com/Arneldvdv/ParkeergarageProject <-- EMPTY
 https://github.com/arneLD/Project-Parkeergarage <-- EMPTY
 https://github.com/Stevenhummel1992/Parkeergarage <-- EMPTY
@@ -56,4 +63,5 @@ https://github.com/DuckStyle/ParkeergarageProject <-- EMPTY
 https://github.com/isaachetlam/parkeergarage <-- EMPTY
 https://github.com/jlasdlahlw/Parkeergarage <-- EMPTY
 https://github.com/ThijsMartena/Parkeergarage <-- EMPTY
+https://github.com/ThijsMartena/parkeerMVC <-- EMPTY
 https://github.com/360343/Parkeersimulator <-- EMPTY
