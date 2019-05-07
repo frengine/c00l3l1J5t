@@ -1,0 +1,12 @@
+https://github.com/timostrating/reversi_ai
+https://github.com/MXoneDay/ProjectReversi
+https://github.com/Jarinus/thema2.3-project
+https://github.com/tieskedh/othello
+https://github.com/FakeYou/kratos
+https://github.com/Evertpoort/TeamBatskelien
+https://github.com/gancheva/GameFramework
+https://github.com/fliermanrw/Project2.3
+https://github.com/TobiasTS/Othello-Game
+https://github.com/jeremander/Gplus
+https://github.com/RockingStars/Reversi
+https://github.com/Arceden/HanzeAI
