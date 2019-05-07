@@ -5,6 +5,8 @@ https://github.com/DirkSuelmann2/Parkeergarage <--FORK
 https://github.com/RamonBonsema08/Parkeergarage <--FORK
 https://github.com/iyadsaffaf/Project-Parkeergarage <-- 1de project
 https://github.com/iyadsaffaf/Garaga-simulator <-- 2de project
+https://github.com/Afrobee1/Project-Parkeergarage <-- OLD FORK
+https://github.com/strameff/Project-Parkeergarage <-- OLD FORK
 https://github.com/arnoenting/Project-Parkeergarage
 https://github.com/cryptology1996/Parkeergarage <-- 1de project
 https://github.com/cryptology1996/Parkeersimulator <-- 2de project
@@ -58,11 +60,24 @@ https://github.com/ahmedcicek/parkeer1
 https://github.com/360456/parkeer1 <-- FORK
 https://github.com/Evertpoort/ProjectOOP
 https://github.com/jgbrands/parking-garage
+https://github.com/oekoning/parking-garage <-- OLD FORK
+https://github.com/Karlientjuuh/parking-garage <-- OLD FORK
+https://github.com/elbble123/parking-garage <-- FORK
+https://github.com/Bobbiebob/parking-garage <-- OLD FORK
 https://github.com/InNoHurryToCode/Java-Parking-Garage
 https://github.com/Rkompaan/Parkeergarage
 https://github.com/Alice69/TestAutogarage
 https://github.com/mishadokter/Parking-Garage-Java
 https://github.com/JosTerlage/Project
+https://github.com/D0pe69/Project-car-park-simulation
+https://github.com/JarnoVos/CarParkSimulator
+https://github.com/doughyjohnny/Parkeersimulator <-- 1 commit
+https://github.com/Faimire/Parkeersimulator
+https://github.com/NickFlok/Parkeersimulator <-- FORK
+https://github.com/koenhendriks/CarParkSimulation
+https://github.com/singh1998/Parkeersimulator <-- 1de project
+https://github.com/singh1998/MVC <-- 2de project mogelijk letterlijk copy
+https://github.com/alice-1999/Parkeersimulator <-- OLD FORK
 
 https://github.com/FrankIin/Project <-- EMPTY
 https://github.com/FrankIin/garagebitch <-- EMPTY

@@ -9,7 +9,7 @@ https://github.com/LenDuin/ZonneWroem <-- FORK / EMPTY
 https://github.com/danielgeerts7/arduino_rollende_luiken
 https://github.com/gvdijk/Project-Embedded
 https://github.com/SandervDoorn/zeng-zonnescherm
-https://github.com/Joyce0398/zeng-zonnescherm <-- FROK
+https://github.com/Joyce0398/zeng-zonnescherm <-- FORK
 https://github.com/Gothic-Gargoyle/Project-2.1-Hanze-SE-Groep-2B-2
 https://github.com/Arceden/HanzeSunSensor
 https://github.com/WisseVoortman/ProjectCS
@@ -19,8 +19,16 @@ https://github.com/IcyPalm/2.1-unwdmi-server
 https://github.com/Daanedwin55/Project-rolluik
 https://github.com/Alice69/Hanzesensors
 https://github.com/HenkBourgonje/Project-Zeng.ltd
-https://github.com/nielsa52/Project-Zeng.ltd <-- FROK
+https://github.com/nielsa52/Project-Zeng.ltd <-- FORK
+https://github.com/CyrielZeilstra/Rolluik_Project
+https://github.com/kirmar1/Rolluik_Project <-- FORK / 1de project
+https://github.com/NiekBeukema/Project-Embedded-Systems
+https://github.com/kirmar1/Project-Embedded-Systems <-- FORK / 2de project
+https://github.com/RobinvanEijk/Python-project2.1
+https://github.com/kirmar1/Python-project2.1 <-- FORK
+https://github.com/koenhendriks/Sun-Roler
+https://github.com/kirmar1/Sun-Roler <-- FORK
 
-TODO
+https://github.com/dsteenge/Project2.1  <-- EMPTY
 https://github.com/WJSchuringa/Project  <-- EMPTY
 https://github.com/rickschoustra/Project <-- FORK / EMPTY

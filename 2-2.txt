@@ -11,5 +11,8 @@ https://github.com/feringa/project2.2
 https://github.com/WouterManuel/project2.2 <-- FORK
 https://github.com/dennishaaijer/WeatherApp-WebApp
 https://github.com/mishadokter/Project-2.2
-
-TODO
+https://github.com/GeorgGroenendaal/UNWDMI
+https://github.com/HenkBourgonje/UNWDMI <-- FORK
+https://github.com/NickFlok/weerSimulator <-- 1de project
+https://github.com/NickFlok/weerSimulatorDone <-- 2de project
+https://github.com/RobinvanEijk/project2.2
