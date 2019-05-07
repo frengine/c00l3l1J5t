@@ -8,7 +8,20 @@ https://github.com/gancheva/GameFramework
 https://github.com/fliermanrw/Project2.3
 https://github.com/TobiasTS/Othello-Game
 https://github.com/jeremander/Gplus
-https://github.com/RockingStars/Reversi
 https://github.com/Arceden/HanzeAI
 https://github.com/JustinZuidgeest/ReversiProject-Group2
 https://github.com/IcyPalm/Hanze-TwoPlayerGameServer
+
+https://gitlab.com/kallenkoot/Hanze-TwoPlayerGameServer <-- modules
+
+https://github.com/RockingStars/Tic-Tac-Toe <-- module
+https://github.com/bertjedb/Tic-Tac-Toe <-- module FORK
+https://github.com/kwiznix/Tic-Tac-Toe <-- module FORK
+https://github.com/miguelgrant96/Tic-Tac-Toe <-- module FORK veel commits
+https://github.com/nedroden/Tic-Tac-Toe <-- module FORK veel commits
+
+https://github.com/RockingStars/Reversi <-- module
+https://github.com/bertjedb/Reversi <-- module FORK veel commits
+https://github.com/kwiznix/Reversi <-- module FORK veel commits
+https://github.com/miguelgrant96/Reversi <-- module FORK veel commits
+https://github.com/nedroden/Reversi <-- module FORK veel commits
