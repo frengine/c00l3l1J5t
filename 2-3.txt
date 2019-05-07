@@ -11,7 +11,6 @@ https://github.com/TobiasTS/Othello-Game
 https://github.com/jeremander/Gplus
 https://github.com/Arceden/HanzeAI
 https://github.com/JustinZuidgeest/ReversiProject-Group2
-https://github.com/IcyPalm/Hanze-TwoPlayerGameServer
 https://github.com/VictorRealem/GameFramework
 https://github.com/WisseVoortman/GameFramework <-- FORK
 https://github.com/TheElmo/GameFramework <-- FORK
@@ -19,7 +18,12 @@ https://github.com/arjen3112/GameFramework <-- FORK
 https://github.com/wkurvers/GameFramework <-- FORK
 https://github.com/danielgeerts7/project-2.3
 
+https://github.com/IcyPalm/AlphaReversi <-- 9 contributers ???
+https://github.com/IceTimux/AlphaReversi <-- FORK
+
+https://github.com/IcyPalm/Hanze-TwoPlayerGameServer <-- server with modules
 https://gitlab.com/kallenkoot/Hanze-TwoPlayerGameServer <-- modules
+https://github.com/Akatchi/Gameframework-Server <-- modules
 
 https://github.com/RockingStars/Tic-Tac-Toe <-- module
 https://github.com/bertjedb/Tic-Tac-Toe <-- module FORK

@@ -30,6 +30,7 @@ https://github.com/bertjedb/Parkeergarage
 https://github.com/Witwerts/Parkeergarage
 https://github.com/RJHarte/Project-Parkeergarage
 https://github.com/Here2peer/parkeergaragesim
+https://github.com/Noffy/parkeergaragesim <-- OLD FORK
 https://github.com/hehuservices/ParkeerGarage <-- 1de project
 https://github.com/hehuservices/Parking-Garage-Simulator <-- FORK / 2de project 
 https://github.com/Wallie288/Parking-Garage-Simulator
@@ -53,6 +54,9 @@ https://github.com/bryandijkhuizen/Parkeersimulator-Project
 https://github.com/ahmedcicek/Testerd
 https://github.com/360456/Testerd <-- FORK
 https://github.com/arneLD/Testerd <-- FORK
+https://github.com/Evertpoort/ProjectOOP
+https://github.com/jgbrands/parking-garage
+https://github.com/InNoHurryToCode/Java-Parking-Garage
 
 https://github.com/FrankIin/Project <-- EMPTY
 https://github.com/FrankIin/garagebitch <-- EMPTY
