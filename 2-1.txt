@@ -32,3 +32,5 @@ https://github.com/LenDuin/ZonneWroem <-- FORK / EMPTY
 https://github.com/dsteenge/Project2.1  <-- EMPTY
 https://github.com/WJSchuringa/Project  <-- EMPTY
 https://github.com/rickschoustra/Project <-- FORK / EMPTY
+https://github.com/Marcelzinga/Project2.1 <-- EMPTY
+https://github.com/Marcelzinga/Embedded-Systems <-- EMPTY
