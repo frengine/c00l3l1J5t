@@ -17,5 +17,6 @@ https://github.com/NickFlok/weerSimulator <-- 1de project
 https://github.com/NickFlok/weerSimulatorDone <-- 2de project
 https://github.com/RobinvanEijk/project2.2
 https://github.com/ErrorCode51/2.2-Leertaak_3
+https://github.com/zejar/WeatherTask2
 
 https://github.com/bakkerrene/WebsiteWaarJeDeWheatherKanZien <-- EMPTY
