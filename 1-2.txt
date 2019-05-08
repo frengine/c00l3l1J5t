@@ -78,6 +78,25 @@ https://github.com/koenhendriks/CarParkSimulation
 https://github.com/singh1998/Parkeersimulator <-- 1de project
 https://github.com/singh1998/MVC <-- 2de project mogelijk letterlijk copy
 https://github.com/alice-1999/Parkeersimulator <-- OLD FORK
+https://github.com/devM1ke/project-parkeersimulator
+https://github.com/marijnj93/Parkeersimulator
+https://github.com/DragonOfSnow/Parkeersimulator
+https://github.com/andyper/parkeersimulator
+https://github.com/crazyRamon/Parkeersimulator
+https://github.com/samvanputten95/Parkeersimulator <-- 1de project
+https://github.com/samvanputten95/Parkeersimulator-werkend <-- 2de project 
+https://github.com/Legerdy/parkeersimulator <-- 1de project
+https://github.com/Legerdy/parkeersim <-- 2de project
+https://github.com/emistery/Parkeersimulator
+https://github.com/miguelgrant96/Parkeersimulator
+https://github.com/Serbobin/Parkeersimulator_project
+https://github.com/Marcelzinga/ParkeerSimulator <-- 1de project
+https://github.com/MichielTombergen/GitHubRepParkingSimulatorBV
+https://github.com/Marcelzinga/GitHubParkingSimulatorBV <-- 2de project / FORK
+https://github.com/ML9934/GitHubParkingSimulatorBV <-- FORK
+https://github.com/UncleBen13/GitHubParkingSimulatorBV <-- FORK
+https://github.com/UncleBen13/Parkingsim2k17 <-- 1 commit
+https://github.com/foxoffire33/parkeerSimulator
 
 https://github.com/FrankIin/Project <-- EMPTY
 https://github.com/FrankIin/garagebitch <-- EMPTY
@@ -92,6 +111,11 @@ https://github.com/ThijsMartena/parkeerMVC <-- EMPTY
 https://github.com/360343/Parkeersimulator <-- EMPTY
 https://github.com/360456/ProjectParkeer <-- EMPTY
 https://github.com/dragonthank/project2 <-- EMPTY
+https://github.com/Joris-West/ParkeerSimulatoerGroep3 <-- EMPTY
+https://github.com/Joris-West/ParkeerSimulator <-- EMPTY
+https://github.com/joricksijtsma/ParkingSimulatorV4 <-- EMPTY
+https://github.com/ML9934/Parkingsim2k17 <-- EMPTY
+https://github.com/bakkerrene/ParkeerSimulator <-- EMPTY
 
 https://github.com/damindaeshan/Anonymous <-- Maybe something ???
 https://github.com/damindaeshan/Anonymous_testing <-- Maybe something ???
