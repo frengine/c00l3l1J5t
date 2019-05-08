@@ -24,6 +24,7 @@ https://github.com/Konijnt/Project-Othello <-- OLD FORK
 https://github.com/HenkBourgonje/project-othello
 https://github.com/hansfeenstra1997/Reversi
 https://github.com/elzo-d/projectX
+https://github.com/ErrorCode51/Project_2.3
 
 https://github.com/IcyPalm/AlphaReversi <-- 9 contributers ???
 https://github.com/IceTimux/AlphaReversi <-- FORK
