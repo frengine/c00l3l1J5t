@@ -29,6 +29,10 @@ https://github.com/kirmar1/Sun-Roler <-- FORK
 https://github.com/cyyann/2.1repo
 https://github.com/YannickSoepnel/P-embedded-system
 https://github.com/zejar/ProjectKetel
+https://github.com/vv32/zonnekrachtmeter-microchip
+https://github.com/vv32/zonnekrachtmeter-processing
+https://github.com/sdejonge/Zonnescherm
+https://github.com/Djostin/Arduino_project
 
 https://github.com/GeerHub/ZonneWroem <-- EMPTY
 https://github.com/LenDuin/ZonneWroem <-- FORK / EMPTY
