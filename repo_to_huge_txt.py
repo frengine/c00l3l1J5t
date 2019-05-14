@@ -8,12 +8,12 @@ extentions = ["bat", "bluej", "c", "cpp", "css", "d", "frag", "glsl", "gradle", 
 includes = '|'.join([fnmatch.translate("*." + x) for x in extentions])
 
 projects = ["1-2", "2-1", "2-2", "2-3"]
-os.mkdir("repo_sources")
+os.makedirs("repo_sources", exist_ok=True)
 
 for project in projects:
 
     prj_dir = "hanzerepos/" + project
-    os.mkdir("repo_sources/" + project)
+    os.makedirs("repo_sources/" + project, exist_ok=True)
 
     for repo_dir in glob(prj_dir + "/*/"):
         print("\n\n-------\n", repo_dir)
