@@ -47,3 +47,5 @@ https://github.com/miguelgrant96/Reversi <-- module FORK veel commits
 https://github.com/nedroden/Reversi <-- module FORK veel commits
 
 https://github.com/WisseVoortman/P_2.3 <-- EMPTY
+
+https://github.com/SuperQcid/Project23 <-- Ricardo's project
