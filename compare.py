@@ -1,4 +1,4 @@
-def lines(a, b):
+def lines(b, a):
     a_split = a.split("\n")
     b_split = b.split("\n")
     count = 0
@@ -41,8 +41,8 @@ def edit_distance(s1, s2): # optimized levenshtein distance
 
 
 
-str1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-str2 = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+# str1 = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+# str2 = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 
-print(lines(str1, str2), "REGELS ZIJN HET ZELFDE")
-print(edit_distance(str1, str2), "LEVENSTEIN EDIT DISTANCE")
+# print(lines(str1, str2), "REGELS ZIJN HET ZELFDE")
+# print(edit_distance(str1, str2), "LEVENSTEIN EDIT DISTANCE")
