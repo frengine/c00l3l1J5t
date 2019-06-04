@@ -33,11 +33,3 @@ https://github.com/vv32/zonnekrachtmeter-microchip
 https://github.com/vv32/zonnekrachtmeter-processing
 https://github.com/sdejonge/Zonnescherm
 https://github.com/Djostin/Arduino_project
-
-https://github.com/GeerHub/ZonneWroem <-- EMPTY
-https://github.com/LenDuin/ZonneWroem <-- FORK / EMPTY
-https://github.com/dsteenge/Project2.1  <-- EMPTY
-https://github.com/WJSchuringa/Project  <-- EMPTY
-https://github.com/rickschoustra/Project <-- FORK / EMPTY
-https://github.com/Marcelzinga/Project2.1 <-- EMPTY
-https://github.com/Marcelzinga/Embedded-Systems <-- EMPTY

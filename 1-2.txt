@@ -108,30 +108,3 @@ https://github.com/Arjen22/Simulator <-- 3de project
 https://github.com/bakkerrene/Parking-Garage-Simulator
 https://github.com/zejar/CarPark
 https://github.com/sdejonge/ParkingLot
-
-https://github.com/FrankIin/Project <-- EMPTY
-https://github.com/FrankIin/garagebitch <-- EMPTY
-https://github.com/Arneldvdv/ParkeergarageProject <-- EMPTY
-https://github.com/arneLD/Project-Parkeergarage <-- EMPTY
-https://github.com/Stevenhummel1992/Parkeergarage <-- EMPTY
-https://github.com/DuckStyle/ParkeergarageProject <-- EMPTY
-https://github.com/isaachetlam/parkeergarage <-- EMPTY
-https://github.com/jlasdlahlw/Parkeergarage <-- EMPTY
-https://github.com/ThijsMartena/Parkeergarage <-- EMPTY
-https://github.com/ThijsMartena/parkeerMVC <-- EMPTY
-https://github.com/360343/Parkeersimulator <-- EMPTY
-https://github.com/360456/ProjectParkeer <-- EMPTY
-https://github.com/dragonthank/project2 <-- EMPTY
-https://github.com/Joris-West/ParkeerSimulatoerGroep3 <-- EMPTY
-https://github.com/Joris-West/ParkeerSimulator <-- EMPTY
-https://github.com/joricksijtsma/ParkingSimulatorV4 <-- EMPTY
-https://github.com/ML9934/Parkingsim2k17 <-- EMPTY
-https://github.com/bakkerrene/ParkeerSimulator <-- EMPTY
-https://github.com/Arjen22/ParkingGarageV3 <-- EMPTY
-
-https://github.com/damindaeshan/Anonymous <-- Maybe something ???
-https://github.com/damindaeshan/Anonymous_testing <-- Maybe something ???
-https://github.com/uaryal02/ITC205_Project <-- Maybe something ???
-https://github.com/Sarthakjo/ITC205_Project <-- FORK / Maybe something ???
-https://github.com/skhati01/ITC205_Project-1 <-- FORK / Maybe something ???
-https://github.com/Sarthakjo/NewRepo <-- Maybe something ???

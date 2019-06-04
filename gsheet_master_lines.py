@@ -2,21 +2,7 @@ import glob
 import subprocess
 import sys
 
-def compare(one, two):
-    count = 0
-    for l in iter(one.splitlines()):
-        # two only contains the line
-        # or 
-        # two has the line, and lines under it
-        # or
-        # two has the line at the end, with other lines above
-        if l == two or l + "\n" in two or two.endswith("\n" + l):
-            count+=1
-
-    #perc = int(count/len(one.splitlines())*100)
-
-    return count
-
+from compare import compare
 
 project = "1-2"
 if len(sys.argv) > 1:

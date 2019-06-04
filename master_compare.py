@@ -4,10 +4,11 @@ from oauth2client.service_account import ServiceAccountCredentials
 from glob import glob
 import os
 import subprocess
+import time
 
-from compare import edit_distance, lines
+from compare import edit_distance, lines, compare
 
-TO_MUCH_CODE_THRESHHOLD = 7500
+import xlwt
 
 
 def exc_command(command):
@@ -36,48 +37,81 @@ def at_most_x_lines_in_common(project, myrepo_url):
         return "???"
 
 def main():
-    scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-    creds = ServiceAccountCredentials.from_json_keyfile_name('credentials.json', scope)
-    client = gspread.authorize(creds)
-    worksheet = client.open("data 2.4").worksheet("masters compare")
-
-    projects = ["1-2"] #, "2-1", "2-2", "2-3"]
-
-    data = worksheet.range(f'B2:F6')
+    projects = ["2-1"] #, "2-1", "2-2", "2-3"]
 
     for project in projects:
         masters = [
-            "https://github.com/timostrating/parkingsimulator",
-            "https://github.com/VincentCremers/Parkeergarage",
-            "https://github.com/rotjeking7/Parkeergarage",
-            "https://github.com/DirkSuelmann2/Parkeergarage",
-            "https://github.com/RamonBonsema08/Parkeergarage",
-        ] # open(project + ".txt")
-        # if len(line.strip()) < 10:
-        #     continue
+            # "https://github.com/timostrating/parkingsimulator",
+            # "https://github.com/VincentCremers/Parkeergarage",
+            # "https://github.com/rotjeking7/Parkeergarage",
+            # "https://github.com/DirkSuelmann2/Parkeergarage",
+            # "https://github.com/RamonBonsema08/Parkeergarage",
+        ] 
+        file = open(project + ".txt")
+        for line in file:
+            if len(line.strip()) < 10:
+                continue
+            try:
+                dir_name = line.split(" ")[0].replace("\n", "").split(".com/")[1].replace("/", "_")
+                open(f"repo_sources/{project}/{dir_name}.txt", "r").read()
+                masters.append(line.replace("\n", ""))
+            except:
+                pass
 
         for id, line in enumerate(masters):
+
+            dir_name = line.split(" ")[0].replace("\n", "").split(".com/")[1].replace("/", "_")
+            print("\n", id, ":", dir_name)
+            commits = exc_command(f"cd hanzerepos/{project}/{dir_name} && git rev-list --all --count")
+            lines_of_code = exc_command(f"cd repo_sources/{project}/ && cat {dir_name}.txt | wc -l")
+            
+            update(id+4, 1, line)
+            update(1, id+4, line)
+            update(id+4, 2, commits)
+            update(2, id+4, commits)
+            update(id+4, 3, lines_of_code)
+            update(3, id+4, lines_of_code)
+            
             for id2, line2 in enumerate(masters):
                 if id == id2:
                     continue
 
-                url = line.split(" ")[0].replace("\n", "")
-                dir_name = url.split(".com/")[1].replace("/", "_")
-                print("\n", id * len(masters) + id2, ":", url)
+                dir_name2 = line2.split(" ")[0].replace("\n", "").split(".com/")[1].replace("/", "_")
+                value = compare(\
+                    open(f"repo_sources/{project}/{dir_name}.txt", "r").read(), 
+                    open(f"repo_sources/{project}/{dir_name2}.txt", "r").read())
 
-                data[id * len(masters) + id2].value = id * len(masters) + id2
-
-    #         data["project"][id].value = project
-    #         data["url"][id].value = url
-    #         data["commits"][id].value = exc_command(f"cd hanzerepos/{project}/{dir_name} && git rev-list --all --count")
-    #         data["commits met 10+ regels"][id].value = "ToDo"
-    #         data["lines of code"][id].value = exc_command(f"cd repo_sources/{project}/ && cat {dir_name}.txt | wc -l")
-    #         data["clean lines of code"][id].value = "ToDo"
-    #         data["file count"][id].value = exc_command(f"find hanzerepos/{project}/{dir_name} -type f | wc -l")
+                if lines_of_code == 0:
+                    update(id + 4, id2 + 4, "???")
+                else:
+                    update(id + 4, id2 + 4, int(float(value) / lines_of_code * 100))
+                
+                
 
 
-        worksheet.update_cells(data)
 
+book = xlwt.Workbook(encoding="utf-8")
+sheet1 = book.add_sheet("Sheet 1")
+
+# scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+# creds = ServiceAccountCredentials.from_json_keyfile_name('credentials.json', scope)
+# client = gspread.authorize(creds)
+# worksheet = client.open("data 2.4").worksheet("masters compare")
+
+def update(row, collum, value, wait_time=3): 
+    sheet1.write(row, collum, value)
+
+    # if (wait_time > 1000):
+    #     wait_time = 1000
+
+    # time.sleep(wait_time)
+    # try:
+    #     worksheet.update_cell(row, collum, value)
+    # except:
+    #     print("Trying again in ", wait_time, "seconds")
+    #     update(update(row, collum, value, wait_time*2))
+        
 
 if __name__ == "__main__":
     main()
+    book.save("master_compare_2_1.xls")

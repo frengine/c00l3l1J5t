@@ -45,12 +45,13 @@ def main():
     count= 250
 
     data = { 
-        "project": worksheet.range(f'A2:A{count}'), 
-        "url": worksheet.range(f'B2:B{count}'),
-        "commits": worksheet.range(f'C2:C{count}'),
-        "lines of code": worksheet.range(f'D2:D{count}'),
-        "file count": worksheet.range(f'E2:E{count}'),
-        "aantal regels exact in andere repo te vinden": worksheet.range(f'F2:F{count}')
+        "project": worksheet.range(f'A3:A{count}'), 
+        "url": worksheet.range(f'B3:B{count}'),
+        "commits": worksheet.range(f'C3:C{count}'),
+        "commits met 10+ regels": worksheet.range(f'D3:D{count}'),
+        "lines of code": worksheet.range(f'E3:E{count}'),
+        "clean lines of code": worksheet.range(f'F3:F{count}'),
+        "file count": worksheet.range(f'G3:G{count}'),
     }
 
     id = 0
@@ -69,13 +70,10 @@ def main():
             data["project"][id].value = project
             data["url"][id].value = url
             data["commits"][id].value = exc_command(f"cd hanzerepos/{project}/{dir_name} && git rev-list --all --count")
-            count = exc_command(f"cd repo_sources/{project}/ && cat {dir_name}.txt | wc -l")
-            data["lines of code"][id].value = count
+            data["commits met 10+ regels"][id].value = "ToDo"
+            data["lines of code"][id].value = exc_command(f"cd repo_sources/{project}/ && cat {dir_name}.txt | wc -l")
+            data["clean lines of code"][id].value = "ToDo"
             data["file count"][id].value = exc_command(f"find hanzerepos/{project}/{dir_name} -type f | wc -l")
-            if count < TO_MUCH_CODE_THRESHHOLD:
-                data["aantal regels exact in andere repo te vinden"][id].value = at_most_x_lines_in_common(project, f"repo_sources/{project}/{dir_name}.txt")
-            else:
-                data["aantal regels exact in andere repo te vinden"][id].value = "included other data"
             id += 1
 
 
