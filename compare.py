@@ -10,6 +10,10 @@ def lines(b, a):
 def compare(one, two):
     count = 0
     for l in iter(one.splitlines()):
+        # Ignore empty lines
+        if len(l) <= 1:
+            continue
+        
         # two only contains the line
         # or 
         # two has the line, and lines under it

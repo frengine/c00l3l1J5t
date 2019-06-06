@@ -1,5 +1,5 @@
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
+#import gspread
+#from oauth2client.service_account import ServiceAccountCredentials
 
 from glob import glob
 import os
@@ -7,6 +7,7 @@ import subprocess
 import time
 
 from compare import edit_distance, lines, compare
+from clean import keep_essence_of_str
 
 import xlwt
 
@@ -37,7 +38,7 @@ def at_most_x_lines_in_common(project, myrepo_url):
         return "???"
 
 def main():
-    projects = ["2-1"] #, "2-1", "2-2", "2-3"]
+    projects = ["1-2"] #, "1-2", "2-1", "2-2", "2-3"]
 
     for project in projects:
         masters = [
@@ -51,15 +52,18 @@ def main():
         for line in file:
             if len(line.strip()) < 10:
                 continue
+
             try:
                 dir_name = line.split(" ")[0].replace("\n", "").split(".com/")[1].replace("/", "_")
                 open(f"repo_sources/{project}/{dir_name}.txt", "r").read()
-                masters.append(line.replace("\n", ""))
-            except:
+                name = line.replace("\n", "")
+                masters.append(name)
+            except e:
+                print("Wat")
+                print(e)
                 pass
 
         for id, line in enumerate(masters):
-
             dir_name = line.split(" ")[0].replace("\n", "").split(".com/")[1].replace("/", "_")
             print("\n", id, ":", dir_name)
             commits = exc_command(f"cd hanzerepos/{project}/{dir_name} && git rev-list --all --count")
@@ -71,21 +75,35 @@ def main():
             update(2, id+4, commits)
             update(id+4, 3, lines_of_code)
             update(3, id+4, lines_of_code)
+
+            contents = open(f"repo_sources/{project}/{dir_name}.txt", "r").read()
+            one = keep_essence_of_str(contents)
+
+            avg = 0
+            n = 0
             
             for id2, line2 in enumerate(masters):
                 if id == id2:
                     continue
 
                 dir_name2 = line2.split(" ")[0].replace("\n", "").split(".com/")[1].replace("/", "_")
-                value = compare(\
-                    open(f"repo_sources/{project}/{dir_name}.txt", "r").read(), 
-                    open(f"repo_sources/{project}/{dir_name2}.txt", "r").read())
 
+                contents2 = open(f"repo_sources/{project}/{dir_name2}.txt", "r").read()
+                two = keep_essence_of_str(contents2)
+
+                value = compare(one, two)
+
+                val = -1
                 if lines_of_code == 0:
                     update(id + 4, id2 + 4, "???")
                 else:
-                    update(id + 4, id2 + 4, int(float(value) / lines_of_code * 100))
-                
+                    val = int(float(value) / lines_of_code * 100)
+                    update(id + 4, id2 + 4, val)
+
+                avg += val
+                n += 1
+
+            print(avg/n)
                 
 
 
